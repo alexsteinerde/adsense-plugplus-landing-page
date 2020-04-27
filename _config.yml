@@ -12,7 +12,7 @@ appstore_link                             :                                     
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : AdSense++                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Get an insight into your AdSense or AdMob earnings - everywhere
+app_description                           : Get an insight into your AdSense or AdMob earnings - everywhere: iPhone, iPad, Apple Watch or Mac
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Alexander Steiner                                
 your_link                                 : https://alexsteiner.de                     
-your_city                                 : Germany                                
+your_city                                 : OWL - Germany
 email_address                             : info@alexsteiner.de
 facebook_username                         :                                           
 instagram_username                        : 
@@ -50,8 +50,8 @@ features                                  :
     description                           : No data leaves your devices. The app talks directly and only with Google itself.
     fontawesome_icon_name                 : user-alt
 
-  - title                                 : Automatic Sync between devices
-    description                           : Once you have logged in to Google on one of your devices the access is securely shared to all other devices via your personal keychain.
+  - title                                 : Sync between devices
+    description                           : Once you have logged in on one of your devices the access is securely shared to all other devices via your personal keychain.
     fontawesome_icon_name                 : sync
 
   - title                                 : Get insights
