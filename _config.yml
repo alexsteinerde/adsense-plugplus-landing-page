@@ -59,7 +59,7 @@ features                                  :
     fontawesome_icon_name                 : chart-bar
 
 
-# Theme Settings
+# Theme Settings 
 topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
